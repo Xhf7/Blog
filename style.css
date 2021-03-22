@@ -27,3 +27,16 @@ input
 .movie1 span{
     padding-right:10px;
 }
+.movie1 i{
+    float: right;
+}
+.star span{
+    color:gold;
+}
+li{
+    
+    margin-top:12px;
+}
+li img{
+    border-radius: 50px;
+}
